@@ -1,0 +1,16 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1363302374.8735518:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%50582fb7d5d2a1b96dd64bd5ed978200I"logical_path;
+FI"close_touch.png;
+FI"pathname;
+F"Y/var/lib/gems/1.9.1/gems/active_scaffold_vho-3.1.6/app/assets/images/close_touch.pngI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2013-02-14T22:26:27+00:00;
+FI"length;
+FI"391;
+FI"digest;
+F"%2a50882d932eabe0b03411b6c3afcc88I"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c

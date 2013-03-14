@@ -1,0 +1,16 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1363302374.611332:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%1bccecc75a3c36eebb70b6d9b65099aaI"logical_path;
+FI"config.png;
+FI"pathname;
+F"T/var/lib/gems/1.9.1/gems/active_scaffold_vho-3.1.6/app/assets/images/config.pngI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2013-02-14T22:26:27+00:00;
+FI"length;
+FI"714;
+FI"digest;
+F"%453056f7c3dabdb5eff9168240520e2bI"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c

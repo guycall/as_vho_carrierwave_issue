@@ -1,0 +1,16 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1363302374.8461294:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%b76bf15f88654d080e5c0f53b6e476c7I"logical_path;
+FI"cross.png;
+FI"pathname;
+F"S/var/lib/gems/1.9.1/gems/active_scaffold_vho-3.1.6/app/assets/images/cross.pngI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2013-02-14T22:26:27+00:00;
+FI"length;
+FI"655;
+FI"digest;
+F"%5b0498b293d0eb9a5de5fde8f452140fI"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c

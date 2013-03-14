@@ -1,0 +1,16 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1363302374.6655042:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%46cd2f6385d59488379856175a13454aI"logical_path;
+FI"magnifier.png;
+FI"pathname;
+F"W/var/lib/gems/1.9.1/gems/active_scaffold_vho-3.1.6/app/assets/images/magnifier.pngI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2013-02-14T22:26:27+00:00;
+FI"length;
+FI"615;
+FI"digest;
+F"%b42653cd7cdb9c3180f0d58c5ae6a51dI"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c
